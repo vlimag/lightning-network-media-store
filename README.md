@@ -1,7 +1,7 @@
-# lightning-network-media-store
+# Lightning Network Media Store
 
-Simple project that dont care about style / architecture guidelines.
-Only purpose is connecting to lightning nodes, and creating invoices.
+- Simple project that dont care about style / architecture guidelines.
+- The one purpose is connecting to lightning nodes, and creating invoices.
 
 ### DEMO
 
